@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位定制简历"
+  short_description: "复用候选人资料库，为技术或非技术岗位生成一页 Word 简历"
+  default_prompt: "使用 $tailor-resume-to-job，读取或建立我的候选人资料库，根据岗位 JD 主动补充证据并生成一份恰好一页的专业 Word 简历。"
